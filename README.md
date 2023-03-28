@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a Data Analyst! 
-- 🌱 I’m currently learning more from DataCamp
+- 🌱 I’m constantly improving on DataCamp and other platforms 
 - 👯 I’m looking to collaborate more on any analytical skills
 - 🤔 I’m looking to gain more knowledge on any thing Data Analytics/Data Science 
 - 💬 Ask me about anything on SQL, PowerBI & Python!
