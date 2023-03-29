@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a Data Analyst! 
+- 🔭 I’m a certified Data Analyst Professional! 
 - 🌱 I’m constantly improving my skills on DataCamp and other platforms 
 - 👯 I’m looking to collaborate more on any analytical skills
 - 🤔 I’m looking to gain more knowledge on any thing Data Analytics/Data Science 
